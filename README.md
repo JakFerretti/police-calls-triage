@@ -12,3 +12,9 @@ In emergency response management, every second counts. This notebook presents an
 3. **Deep Learning Framework:** Construction of a **1D Convolutional Neural Network (CNN)** equipped with an embedding layer to capture sequence layout and contextual word patterns.
 4. **Production Engineering:** Integration of a deterministic **Civic & Traffic Safety Guardrail** to eliminate statistical shortcut learning.
 5. **Interactive Deployment:** A complete script export to power a local **Streamlit** dashboard for real-time model interaction.
+
+---
+
+# 🚀 Live Demo
+You can test the interactive deployment of this model here: 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/JackLittleIron/police-triage-app)

@@ -1,5 +1,9 @@
 streamlit
+scikit-learn
+pandas
+numpy
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+--extra-index-url https://pypi.org/simple
 tensorflow-cpu==2.16.1
 keras==3.3.3
 keras-nlp==0.12.1
-scikit-learn
